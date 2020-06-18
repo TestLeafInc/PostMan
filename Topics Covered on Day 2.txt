@@ -1,0 +1,20 @@
+Topics Covered on Day 2:
+
+1) PostMan (Contd)
+
+	- Collection Authorization (Inheritance)
+	- Logs (Using Console)
+	- JIRA Implementation 
+	- Request (Delete, Put, Patch)
+	- Variables: Global, Collection, Environment, Local
+	- Chaining the requests using variables
+	- JavaScript Code Syntax for the response parser
+        - Pre and Test 
+	- Visualization (Template and Charts)
+	- Collection Runner : Iterations and Reports
+	- NewMan Installation and Runner (with environment and global data)
+	- JavaScript Syntax and Functions (for, if, Random, Date)
+	
+
+
+   

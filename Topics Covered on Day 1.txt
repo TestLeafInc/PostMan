@@ -1,0 +1,48 @@
+Topics Covered on Day 1:
+
+1) 5 Reasons behind API automation growth vs UI Automation.
+   - API First Design in development
+   - Speed
+   - Isolated (Independent) tests
+   - Easier test data generation
+   - Relatively less failures than UI
+
+2) Mike Cohn Test Pyramid
+    - Increase your API tests (fewer UI tests)
+    - Granularity by test level (More E2E UI tests)
+
+3) Contract Testing 
+    - Consumer vs Provider
+    - Publisher vs Subscriber
+
+4) REST Request & Response (5 Step) Process
+
+5) Understanding basic terminologies
+
+	- Request Method (Get, Post, Delete, Put, Patch)
+	- Authentication Types (NoAuth, Basic, OAuth2, Token)
+	- Headers (ContentType, Accept, Cookie, Custom)
+	- Request Parameters (Header, Query, Form, Path)
+	- Param Data Types
+	- Body formats (form, URL-Encodes, Raw, Binary)
+	- Raw (JSON, XML, TXT)
+	- JSON Structure (Simple, Array, Nested)
+	- XML Structure
+	- Status Codes
+
+6) Documentation (Contract) Tools
+	- Swagger vs PostMan
+
+7) PostMan 
+
+	- Collection
+	- Folder
+	- Request (Get & Post)
+	- Request Param (Example from ServiceNow)
+	- Headers (Content-Type, Accept) -> JSON & XML
+	- Authentication (Basic)
+	- Response Status Code & Body
+	
+
+
+   
